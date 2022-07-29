@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Stateful Clicker Counter',
+      title: 'Concave Neumorphism Design',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
